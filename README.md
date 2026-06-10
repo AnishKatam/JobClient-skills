@@ -23,15 +23,16 @@ Most Claude skill libraries serve professionals *at work*. JobSeeker Skills serv
 ### Global install — works in every Claude Code session
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/jobseeker-skills.git
-cp -r jobseeker-skills/skills/* ~/.claude/skills/
+git clone https://github.com/AnishKatam/JobClient-skills.git
+
+cp -r JobClient-skills/skills/* ~/.claude/skills/
 ```
 
 ### Project install — only active in one repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/jobseeker-skills.git
-cp -r jobseeker-skills/skills/* /path/to/your/project/.claude/skills/
+git clone https://github.com/AnishKatam/JobClient-skills.git
+cp -r JobClient-skills/skills/* /path/to/your/project/.claude/skills/
 ```
 
 ### Verify it worked
