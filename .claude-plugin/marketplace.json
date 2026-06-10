@@ -1,0 +1,29 @@
+{
+  "name": "jobseeker-skills",
+  "owner": {
+    "name": "Anish Katam",
+    "url": "https://anishkatam.com"
+  },
+  "metadata": {
+    "description": "The job-search skill pack for Claude Code. Mock interviews, recruiter-grade resume audits, resume rewriting, and a personal job-hunt agent.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "jobclient-skills",
+      "source": "./",
+      "description": "All 5 Job Seeker skills: The Interviewer, The Recruiter, Resume Analyzer, Resume Writer, and Job Hunter.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Anish Katam"
+      },
+      "skills": [
+        "./skills/the-interviewer",
+        "./skills/the-recruiter",
+        "./skills/resume-analyzer",
+        "./skills/resume-writer",
+        "./skills/job-hunter"
+      ]
+    }
+  ]
+}
