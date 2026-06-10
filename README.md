@@ -1,6 +1,6 @@
 # JobSeeker Skills 🕵️
 
-**The job-search skill pack for Claude Code.** Five skills that turn Claude into your mock interviewer, recruiter, resume analyst, resume writer, and personal talent agent.
+**The job-search skill pack for Claude Code.**
 
 Most Claude skill libraries serve professionals *at work*. JobSeeker Skills serves people *trying to get hired* — students, new grads, and career changers.
 
@@ -10,11 +10,11 @@ Most Claude skill libraries serve professionals *at work*. JobSeeker Skills serv
 
 | Skill | What It Does | Try Saying |
 |---|---|---|
-| 🎤 **The Interviewer** | Realistic hiring-manager mock interviews with per-answer scoring, probing follow-ups, and a full hiring debrief | `"interview me"` or `/igotaninterview` |
-| 🔍 **The Recruiter** | Evaluates you as a live recruiter would — interview probability, rejection risks, recruiter verdict | `"would I get hired for this role?"` |
-| 📋 **Resume Analyzer** | ATS + recruiter diagnostics with severity scores and ranked fixes | `"audit my resume"` |
-| ✍️ **Resume Writer** | Rewrites bullets for maximum interview probability — never fabricates metrics | `"rewrite my experience section"` |
-| 🗺️ **Job Hunter** | Personal talent agent: scores opportunities, tracks applications, maintains your `about-me.md` | `/createaboutme` then `"should I apply to this?"` |
+|  **The Interviewer** | Realistic hiring-manager mock interviews with per-answer scoring, probing follow-ups, and a full hiring debrief | `"interview me"` or `/igotaninterview` |
+|  **The Recruiter** | Evaluates you as a live recruiter would — interview probability, rejection risks, recruiter verdict | `"would I get hired for this role?"` |
+|  **Resume Analyzer** | ATS + recruiter diagnostics with severity scores and ranked fixes | `"audit my resume"` |
+|  **Resume Writer** | Rewrites bullets for maximum interview probability — never fabricates metrics | `"rewrite my experience section"` |
+|  **Job Hunter** | Personal talent agent: scores opportunities, tracks applications, maintains your `about-me.md` | `/createaboutme` then `"should I apply to this?"` |
 
 ---
 
